@@ -1,0 +1,27 @@
+{
+  "name": "blockofknowledge",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "node index.js"
+  },
+  "author": "Felipe Melo <felipe.melo.devel@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.3",
+    "fs": "^0.0.1-security",
+    "ip": "^1.1.5",
+    "node-fetch": "^2.1.2",
+    "ws": "^5.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

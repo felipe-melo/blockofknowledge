@@ -1,0 +1,12 @@
+{
+  "knowledge":[{
+    "index":0,
+    "previousHash":null,
+    "timestamp":1465154705,
+    "data":"my genesis block!!",
+    "hash":"d886ff6d113ff7ed638998a157378db5db745a87ec8c0da11da4c4e4a92efcca",
+    "votes":0,
+    "difficulty": 0,
+    "nonce": 0
+  }]
+}
