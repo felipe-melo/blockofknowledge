@@ -2,11 +2,15 @@
 Protótipo de sistema de armazenamento e compartilhamento de conhecimento.
 
 ## Servidor
-`cd BlockOfKnowledgeServer` entrar na pasta do servidor
+`cd BlockOfKnowledgeServer`
+
 `yarn` para instalar as dependências
+
 `npm start` inicia servidor
 
 ## Frontend
-`cd BlockOfKnowledge` entrar na pasta do front
+`cd BlockOfKnowledge`
+
 `yarn` para instalar as dependências
+
 `npm start` inicia front
