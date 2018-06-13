@@ -1,12 +1,12 @@
 # blockofknowledge
 Protótipo de sistema de armazenamento e compartilhamento de conhecimento.
 
-##Servidor
+## Servidor
 `cd BlockOfKnowledgeServer`
 `yarn` para instalar as dependências
 `npm start` inicia servidor
 
-##Frontend
+## Frontend
 `cd BlockOfKnowledge`
 `yarn` para instalar as dependências
 `npm start` inicia front
